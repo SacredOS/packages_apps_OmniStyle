@@ -151,6 +151,26 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
 
         <activity
+            android:name=".sacred1"
+            android:label="SacredOS 1" >
+            <intent-filter>
+                <action android:name="org.omnirom.DaylightHeaderPack1" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".sacred2"
+            android:label="SacredOS 2" >
+            <intent-filter>
+                <action android:name="org.omnirom.DaylightHeaderPack1" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
             android:name=".theme"
             android:label="Theme" >
             <intent-filter>
