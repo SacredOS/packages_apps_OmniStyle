@@ -16,5 +16,11 @@
  -->
 
 <wallpapers>
-
+    <wallpaper image="sacred_wall1" creator="Roger Truttmann" />
+    <wallpaper image="sacred_wall2" creator="Roger Truttmann" />
+    <wallpaper image="sacred_wall3" creator="Roger Truttmann" />
+    <wallpaper image="sacred_wall4" creator="Roger Truttmann" />
+    <wallpaper image="sacred_wall5" creator="Roger Truttmann" />
+    <wallpaper image="sacred_wall6" creator="Roger Truttmann" />
+    <wallpaper image="sacred_wall7" creator="Roger Truttmann" />
 </wallpapers>
